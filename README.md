@@ -4,7 +4,7 @@
 >
 > **Status:** 🟢 Final Draft for Deployment
 > **Domain:** HealthTech / Clinical Workflow Automation / Enterprise Systems
-> **Market Context:** Australian Healthcare System (HL7 / FHIR Interoperability Standards)
+> **Market Context:** Australian Healthcare System 
 
 > **Author:** Hoang Nguyen Duy Anh — Business Analyst
 
@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Role-Business%20Analyst-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Enterprise%20Systems%20%26%20Interoperability-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Methodology-Hybrid%20%28Waterfall%20%2B%20Agile%29-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Standards-HL7%20%2F%20FHIR%20%7C%20BRD%20%7C%20RTM-red?style=for-the-badge" />
 </p>
 
 ## 📌 Executive Summary
